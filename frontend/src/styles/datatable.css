@@ -1,0 +1,12 @@
+#table-component{
+    position:relative;
+    float:right;
+    width:80%;
+    height:800px;
+}
+table {
+    table-layout:fixed;
+}
+table td{
+    overflow: hidden;
+}
